@@ -1,6 +1,7 @@
 /*div,h1,h2,h3,h4,h5 {
   border: 1px solid red;
 } Красная рамка для удобства */
+/* МОИИИИИ ИЗМЕНЕНИЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯ*/
 .page {
   min-width: 1100px;
   max-width: 1600px;
@@ -100,7 +101,7 @@ text-decoration: none;
 }
 
 .two-columns__main-text {
-  display: flex; 
+  display: flex;
   width: 80%;
   min-width: 784px;
   flex-wrap: wrap;
@@ -166,7 +167,7 @@ text-decoration: none;
   padding-top: 20px;
 }
 .feynman {
-  background-color: #f2f2f2; 
+  background-color: #f2f2f2;
   background-image: url(../images/feynman.png);
   background-size: 867px 637px;
   background-position: top 100% right 100%;
@@ -233,7 +234,7 @@ text-decoration: none;
 }
 .kaufman__triangle {
   width: 877px;
-  height: 877px;;
+  height: 877px;
   position: absolute;
   right: -210px;
   top: 0;
@@ -249,7 +250,7 @@ text-decoration: none;
 }
 .footer__columns{
   display:flex;
-  width: 90%; 
+  width: 90%;
   justify-content: space-between;
 }
 /*.footer__column {
@@ -263,7 +264,7 @@ text-decoration: none;
 } Класс в котором стили не применялись*/
 
 .footer__column_content_social{
- display:flex; 
+ display:flex;
  flex-direction: column;
  
 }
