@@ -1,0 +1,11 @@
+/*div,h1,h2,h3,h4,h5,h6,section,ul,li,p,a,nav {
+    border: 1px solid red; Граница для удобства 
+}*/
+.page {
+    min-width: 1100px;
+    max-width: 1600px;
+    margin: 0 auto;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+  
+  }
+  
