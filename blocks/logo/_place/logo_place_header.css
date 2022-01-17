@@ -1,7 +1,7 @@
 .logo_place_header {
-    flex-direction: row;
-    position: absolute;
-    top:30px;
-    left:64px;
-    z-index: 100;
-  }
+  flex-direction: row;
+  position: absolute;
+  top: 30px;
+  left: 64px;
+  z-index: 100;
+}
